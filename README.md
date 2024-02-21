@@ -1,7 +1,7 @@
 ![image](https://play-lh.googleusercontent.com/XskKKrerCZPR5YH9iqSNNI9RmBedf_UN5KDr6ffeypSG-yn1dBi2yRoahttm9ENqvi-d=w240-h480-rw) ![뱅크샐러드](https://github.com/yoojisuk0/account-book/assets/61814964/c0901320-abe9-44ab-bc8a-1863d890568c)
 
 
-# 예제 - 음식배달
+# 예제 - 가계부
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
 이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
