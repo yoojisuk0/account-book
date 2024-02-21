@@ -1,6 +1,4 @@
-![image](https://play-lh.googleusercontent.com/XskKKrerCZPR5YH9iqSNNI9RmBedf_UN5KDr6ffeypSG-yn1dBi2yRoahttm9ENqvi-d=w240-h480-rw)
-
-![뱅크샐러드](https://github.com/yoojisuk0/account-book/assets/61814964/c0901320-abe9-44ab-bc8a-1863d890568c)
+![image](https://play-lh.googleusercontent.com/XskKKrerCZPR5YH9iqSNNI9RmBedf_UN5KDr6ffeypSG-yn1dBi2yRoahttm9ENqvi-d=w240-h480-rw) ![뱅크샐러드](https://github.com/yoojisuk0/account-book/assets/61814964/c0901320-abe9-44ab-bc8a-1863d890568c)
 
 
 # 예제 - 음식배달
